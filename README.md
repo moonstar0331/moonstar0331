@@ -25,4 +25,12 @@ Korea 🇰🇷
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidStudio&logoColor=white">
 
+## 📖 Certificate 📖
+
+SQLD (2022-04-08)
+리눅스마스터 2급 (2022-09-23)
+컴활 1급 (2021-11-30)
+
+
+
 </div>
