@@ -23,6 +23,6 @@ Korea 🇰🇷
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/androidStudio-3DDC84?style=for-the-badge&logo=androidStudio&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidStudio&logoColor=white">
 
 </div>
