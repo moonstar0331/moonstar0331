@@ -4,11 +4,7 @@
 
 ## 🏫 education 🏫
   
-Department of Computer Engineering
-<br>
-Kyonggi Univ
-<br>
-Korea 🇰🇷
+Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 
 <br>
 
