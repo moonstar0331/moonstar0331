@@ -26,18 +26,57 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white">
-
+</div>
 
 <br>
 <br>
-<br>
 
-## 🏆 Project
-
+<div align="center">
   
+## 🎯 Experiences 🎯
+  
+</div>
+<br>
+<div>
 
-## 📖 Certificate
+**2023** <br>
+Joint 2023 Hackathon for SWUniv 2023 | 2023.06 <br>
+Joint 2023 KIIT(Korean Institute of Information Technology) College Student Paper Contest | 2023.06. <br>
+Joint KSII(Korean Society for Internet Information) APIC-IST 2023 | 2023.06. <br>
+Joint 2023 AI Computer Engineering Industry Cooperation Contest | 2023.02. ~ 2023.06. <br>
+Joint ZeroBase Mini CodingTest Competition | 2023.04. <br>
 
+**2022** <br>
+Joint 2022 KIIT(Korean Institute of Information Technology) College Student Paper Contest | 2022.06. <br>
+Joint 2022 Kyonggi University Capstone Design | 2022.03. ~ 2022.06. <br>
+Naver Connect Foundation BOOSTCOURSE AI BASIC COACHING STUDY 1st member | 2022.01.~ 2022.02. (6 weeks) <br>
+
+**2021** <br>
+CodeIt College student Coding Camp 7th member | 2021.06. ~ 2021.07. (5 weeks) <br>
+  
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 Awards 🏆
+  
+</div>
+<br>
+<div>
+
+**2022 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상**<br>
+**2022 경기대학교 캡스톤디자인 경진대회 은상**<br>
+**2023 제로베이스 미니코딩테스트 대회 입상**<br>
+**2023 한국정보기술학회(KIIT) 대학생 논문 경진대회 동상**<br>
+**2023 AI컴퓨터공학 산학협력 프로젝트 금상**<br>
+  
+</div>
+
+<div align="center">
+  
+## 📖 Certificated 📖
 
 | 취득일자 | 자격명 | 발행기관 |
 | :--------: | :-----: | :------: |
@@ -45,5 +84,5 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 | 2022.09.23 | 리눅스마스터 2급 | 한국정보통신진흥협회 |
 | 2022.04.08 | SQL Developer | 한국데이터산업진흥원 |
 | 2021.11.30 | 컴퓨터활용능력 1급 | 대한상공회의소 |
-
+  
 </div>
