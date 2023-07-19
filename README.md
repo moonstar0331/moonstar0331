@@ -49,10 +49,10 @@ Joint ZeroBase Mini CodingTest Competition | 2023.04. <br>
 **2022** <br>
 Joint 2022 KIIT(Korean Institute of Information Technology) College Student Paper Contest | 2022.06. <br>
 Joint 2022 Kyonggi University Capstone Design | 2022.03. ~ 2022.06. <br>
-Naver Connect Foundation BOOSTCOURSE AI BASIC COACHING STUDY 1st member | 2022.01.~ 2022.02. (6 weeks) <br>
+Naver Connect Foundation BOOSTCOURSE AI BASIC COACHING STUDY 1st member | 2022.01.~ 2022.02. <br>
 
 **2021** <br>
-CodeIt College student Coding Camp 7th member | 2021.06. ~ 2021.07. (5 weeks) <br>
+CodeIt College student Coding Camp 7th member | 2021.06. ~ 2021.07. <br>
   
 </div>
 
