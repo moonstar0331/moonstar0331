@@ -1,6 +1,6 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=6eceda&height=240&text=MOONSTAR&fontColor=8194a3)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0022BB&height=240&text=MOONSTAR&fontColor=e8f8ee)
 
 ## 🏫 education 🏫
   
