@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0022BB&height=240&text=MOONSTAR&fontColor=e8f8ee)
 
-## 🏫 education 🏫
+## 🏫 Education 🏫
   
 Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 
