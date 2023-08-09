@@ -40,7 +40,8 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 <div>
 
 **2023** <br>
-Joint 2023 Hackathon for SW Univ 2023 | 2023.06. <br>
+Joint 2023 Korea Tourism Organization Gen AI Hackathon | 2023.07. ~ 2023.08.
+Joint 2023 Hackathon for SW Univ | 2023.06. <br>
 Joint 2023 KIIT(Korean Institute of Information Technology) College Student Paper Contest | 2023.06. <br>
 Joint KSII(Korean Society for Internet Information) APIC-IST 2023 | 2023.06. <br>
 Joint 2023 AI Computer Engineering Industry Cooperation Contest | 2023.02. ~ 2023.06. <br>
