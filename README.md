@@ -77,7 +77,7 @@ CodeIt College student Coding Camp 7th member | 2021.06. ~ 2021.07. <br>
 
 <div align="center">
   
-## 📖 Certificate/License 📖
+## 📖 Certificate and License 📖
 
 | 취득일자 | 자격명 | 발행기관 |
 | :--------: | :-----: | :------: |
