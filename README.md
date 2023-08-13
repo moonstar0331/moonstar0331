@@ -33,7 +33,7 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 
 <div align="center">
   
-## 🎯 Experiences 🎯
+## 🎯 Experience 🎯
   
 </div>
 <br>
