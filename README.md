@@ -18,6 +18,7 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-00838f?style=flat&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=Docker&logoColor=white">
