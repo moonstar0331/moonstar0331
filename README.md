@@ -48,7 +48,7 @@ Joint 2023 Hackathon for SW Univ | 2023.06. <br>
 Joint 2023 KIIT(Korean Institute of Information Technology) College Student Paper Contest | 2023.06. <br>
 Joint KSII(Korean Society for Internet Information) APIC-IST 2023 | 2023.06. <br>
 Joint 2023 AI Computer Engineering Industry Cooperation Contest | 2023.02. ~ 2023.06. <br>
-Joint ZeroBase Mini CodingTest Competition | 2023.04. <br>
+Joint ZeroBase Mini Coding Test Competition | 2023.04. <br>
 
 **2022** <br>
 Joint 2022 KIIT(Korean Institute of Information Technology) College Student Paper Contest | 2022.06. <br>
