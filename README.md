@@ -41,7 +41,7 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 <div>
 
 **2023** <br>
-14th Trainee Of Goorm Kubernetes Course | 2023.09. ~ ing <br>
+9oormthon Training Kubernetes Course 14th trainee | 2023.09. ~ ing <br>
 Backend Developer of Travel.COOP Project with T2L | 2023.08. ~ ing <br>
 Joint 2023 Korea Tourism Organization Gen AI Hackathon | 2023.07. ~ 2023.08. <br>
 Joint 2023 Hackathon for SW Univ | 2023.06. <br>
