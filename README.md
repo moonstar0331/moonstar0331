@@ -23,10 +23,13 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white">
 </div>
 
 <br>
