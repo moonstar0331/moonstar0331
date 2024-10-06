@@ -8,6 +8,12 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 
 <br>
 
+## 🏢 Career 🏢
+
+THEKARY ITInnovation Web Developer (2024.04. ~ 2024.09.)
+
+<br>
+
 ## 🍀 Tech Stack 🍀
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
