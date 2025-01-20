@@ -9,8 +9,8 @@ Department of Computer Engineering, Kyonggi Univ, Korea 🇰🇷
 <br>
 
 ## 🏢 Career 🏢
-
-THEKARY ITInnovation Web Developer (2024.04. ~ 2024.09.)
+AST DX Business Dept. Web Developer (2025.01.02 ~ ing)
+THEKARY ITInnovation Dept. Web Developer (2024.04.01 ~ 2024.09.30)
 
 <br>
 
